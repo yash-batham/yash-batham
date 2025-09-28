@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash-batham
 - 👀 I’m interested in creating the digital space much more efficient
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on MERN stack applications
 - 📫 How to reach me ... Right Here!
 - 😄 Pronouns: ... he/him
